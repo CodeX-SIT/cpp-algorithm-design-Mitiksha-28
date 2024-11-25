@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/1Btf62fS)
 ## C++ Assignment: Solving System of Linear Equations
 
 ### Objective:
@@ -34,10 +35,12 @@ Submit the C++ source code file in the GitHub repository, similar to how you sub
 ### Input:
 
 ```cpp
+2
 3
 4 2 1 -1 8
 4 -3 4 2 1
 4 1 -1 3 6
+1
 3 2 3 -1
 ```
 
